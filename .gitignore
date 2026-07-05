@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CopilotSnapshots/B7ECD484A0E82E41AA840C9DD2AC29BA
+/.vs
+/ExpenseTracker/.vs
+/ExpenseTracker/ExpenseTracker/obj
+/ExpenseTracker/ExpenseTracker.API/obj
+/ExpenseTracker/ExpenseTracker.App/obj
+/ExpenseTracker/ExpenseTracker.Domain/obj
+/ExpenseTracker/ExpenseTracker.Infrastructure/obj
+/ExpenseTracker/ExpenseTracker.Persistence/obj
+/ExpenseTracker/ExpenseTracker.Tests/obj
